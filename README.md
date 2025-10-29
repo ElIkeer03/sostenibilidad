@@ -1,5 +1,5 @@
 ### **SOSTENIBILIDAD**
-![Sostenibilidad y TICs](https://img.shields.io/badge/Sostenibilidad-%23A5D6A7?style=flat-square&label=TICs%20y%20Medio%20Ambiente&labelColor=%23F8BBD0)
+![Sostenibilidad | TICs y Medio Ambiente](https://img.shields.io/badge/Sostenibilidad-TICs%20y%20Medio%20Ambiente-%23d66aa5?style=flat-square&labelColor=3fb04f)
 
 Índice
 
