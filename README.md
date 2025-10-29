@@ -1,4 +1,5 @@
 ### **SOSTENIBILIDAD**
+![Sostenibilidad y TICs](https://img.shields.io/badge/Sostenibilidad%20%7C%20TICs%20y%20Medio%20Ambiente-pink)
 
 Índice
 
